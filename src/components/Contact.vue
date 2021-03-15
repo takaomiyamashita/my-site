@@ -1,0 +1,12 @@
+<template>
+  <div>
+    <header>
+      <p>Top</p>
+      <p>About</p>
+      <p>Works</p>
+      <p>Contact</p>      
+    </header>
+    <main>
+    </main>
+  </div>
+</template>
