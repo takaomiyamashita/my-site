@@ -1,12 +1,13 @@
 <template>
-  <div>
-    <header>
-      <p>Top</p>
-      <p>About</p>
-      <p>Works</p>
-      <p>Contact</p>      
-    </header>
-    <main>
-    </main>
+  <div :class="$style.parent">
+    <div :class="$style.child">
+      <h1>About</h1>
+    </div>
   </div>
 </template>
+
+<script>
+export default{
+  name: 'Routing'
+}
+</script>

@@ -4,7 +4,7 @@
       <p>Top</p>
       <p>About</p>
       <p>Works</p>
-      <p>Contact</p>      
+      <p>Contact!</p>      
     </header>
     <main>
     </main>
