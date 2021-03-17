@@ -1,12 +1,11 @@
 <template>
-  <div>
-    <header>
-      <p>Top!</p>
-      <p>About</p>
-      <p>Works</p>
-      <p>Contact</p>      
-    </header>
-    <main>
-    </main>
-  </div>
+  <header>
+    <p>Topページを作成</p>
+  </header>
 </template>
+
+<script>
+export default{
+  name: 'Routing'
+}
+</script>

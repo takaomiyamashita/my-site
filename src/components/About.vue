@@ -1,13 +1,9 @@
 <template>
-  <div :class="$style.parent">
-    <div :class="$style.child">
-      <h1>About</h1>
-    </div>
+  <div>
+    <header>
+      <p>Aboutページを作成</p>
+    </header>
+    <main>
+    </main>
   </div>
 </template>
-
-<script>
-export default{
-  name: 'Routing'
-}
-</script>

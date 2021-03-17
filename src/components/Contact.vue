@@ -1,10 +1,7 @@
 <template>
   <div>
     <header>
-      <p>Top</p>
-      <p>About</p>
-      <p>Works</p>
-      <p>Contact!</p>      
+      <p>Contactページを作成</p>      
     </header>
     <main>
     </main>
